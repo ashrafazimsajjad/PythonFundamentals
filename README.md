@@ -78,14 +78,11 @@ Contains fundamental Python concepts.
 - Operators
 - Type Casting
 - Conditional Statements
-- Loops (for & while)
-- Nested Logic
-- Match-case
 - Build-In Functions
 - Collections
 - Data & File Handling
 - Exception Handling
-- Object Oriented Programming (OOP)
+- Object Oriented Programming(OOP)
 
 ---
 
